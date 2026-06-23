@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Ashi Tripathi
 
-<!--
-**badpookie/badpookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science undergraduate passionate about building intelligent software and solving real-world problems with AI, machine learning, and full-stack development.
 
-Here are some ideas to get you started:
+Currently exploring the intersection of software engineering, data science, and artificial intelligence while developing projects that combine practical utility with modern technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Working On
+
+→ **Finance Advisor** — An AI-powered financial assistant that helps users track expenses, analyze spending habits, and receive personalized financial insights.
+
+→ **Medical Diagnosis Assistant** — A machine learning application designed to assist users by predicting potential health conditions based on symptoms and providing informative guidance.
+
+→ **Library Management System** — A full-stack solution for managing books, users, borrowing records, and analytics efficiently.
+
+## Education
+
+**B.Tech in Computer Science & Engineering**
+
+## Currently Learning
+
+* Machine Learning & Deep Learning
+* Large Language Models (LLMs)
+* Data Structures & Algorithms
+* Backend Development
+* Cloud Computing 
+
+## Looking For
+
+Software Engineering, AI/ML, and Data Science internships where I can contribute, learn from experienced developers, and work on impactful projects.
+
+## Reach Me At
+
+(mailto:ashi.trip.08@gmail.com)
+
+## Skills
+
+### AI & Machine Learning
+
+Python · Scikit-learn · PyTorch · Pandas · NumPy · NLP · Computer Vision
+
+### Software Development
+
+Python · C++ · SQL · REST APIs · OOP · Data Structures & Algorithms
+
+### Web Development
+
+HTML · CSS · JavaScript · Streamlit 
+
+### Databases
+
+MySQL · SQLite
+
+### Tools
+
+Git · GitHub · VS Code · Linux · Jupyter Notebook 
