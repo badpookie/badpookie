@@ -32,9 +32,9 @@ Software Engineering, AI/ML, and Data Science internships where I can contribute
 
 ## Connect with Me
 
-[ashi.trip.08@gmail.com](mailto:ashi.trip.08@gmail.com)
+[Email](https://ashi.trip.08@gmail.com)
 
-https://www.linkedin.com/in/ashi-tripathi-081b742a0?lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3B0Q6JMZTsQzy2Xvgw8AQqPg%3D%3D
+[LinkedIn](https://www.linkedin.com/in/ashi-tripathi-081b742a0)
 
 ## Skills
 
