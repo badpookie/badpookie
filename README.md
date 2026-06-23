@@ -32,7 +32,8 @@ Software Engineering, AI/ML, and Data Science internships where I can contribute
 
 ## Connect with Me
 
-[Email](https://ashi.trip.08@gmail.com) [LinkedIn](https://www.linkedin.com/in/ashi-tripathi-081b742a0)
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?style=for-the-badge&label=Email&labelColor=red&link=ashi.trip.08%40gmail.com">
+
 
 ## Skills
 
