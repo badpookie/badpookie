@@ -28,9 +28,7 @@ Currently exploring the intersection of software engineering, data science, and 
 
 Software Engineering, AI/ML, and Data Science internships where I can contribute, learn from experienced developers, and work on impactful projects.
 
-## Reach Me At
-
-(mailto:ashi.trip.08@gmail.com)
+## Reach Me At ashi.trip.08@gmail.com
 
 ## Skills
 
