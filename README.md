@@ -26,9 +26,8 @@ Currently exploring the intersection of software engineering, data science, and 
 
 ## Looking For
 
-Software Engineering, AI/ML, and Data Science internships where I can contribute, learn from experienced developers, and work on impactful projects.
-
-## Reach Me At ashi.trip.08@gmail.com
+* Software Engineering, AI/ML, and Data Science internships where I can contribute, learn from experienced developers, and work on impactful projects.
+* Reach Me at ashi.trip.08@gmail.com
 
 ## Connect with Me
 
@@ -38,20 +37,28 @@ Software Engineering, AI/ML, and Data Science internships where I can contribute
 
 ### AI & Machine Learning
 
-Python · Scikit-learn · PyTorch · Pandas · NumPy · NLP · Computer Vision
+![Static Badge](https://img.shields.io/badge/Python-black) ![Static Badge](https://img.shields.io/badge/Scikit%20learn-black) ![Static Badge](https://img.shields.io/badge/PyTorch-black) ![Static Badge](https://img.shields.io/badge/Pandas-black) ![Static Badge](https://img.shields.io/badge/Numpy-black)
+![Static Badge](https://img.shields.io/badge/NLP-black)
+
 
 ### Software Development
 
-Python · C++ · SQL · REST APIs · OOP · Data Structures & Algorithms
+![Static Badge](https://img.shields.io/badge/Python-black) ![Static Badge](https://img.shields.io/badge/C%2B%2B-black) ![Static Badge](https://img.shields.io/badge/SQL-black) ![Static Badge](https://img.shields.io/badge/REST%20APIs-black) ![Static Badge](https://img.shields.io/badge/OOP-black)
+![Static Badge](https://img.shields.io/badge/Data%20Structure%20%26%20Algorithm-black)
 
 ### Web Development
 
-HTML · CSS · JavaScript · Streamlit 
+![Static Badge](https://img.shields.io/badge/CSS-black) ![Static Badge](https://img.shields.io/badge/JavaScript-black) ![Static Badge](https://img.shields.io/badge/Streamlit-black) 
 
 ### Databases
 
-MySQL · SQLite
+![Static Badge](https://img.shields.io/badge/MySQL-black) 
+
+### Languages
+
+![Static Badge](https://img.shields.io/badge/Python-black) ![Static Badge](https://img.shields.io/badge/C-black) ![Static Badge](https://img.shields.io/badge/C%2B%2B-black) ![Static Badge](https://img.shields.io/badge/JavaScript-black) ![Static Badge](https://img.shields.io/badge/SQL-black)
 
 ### Tools
 
-Git · GitHub · VS Code · Linux · Jupyter Notebook 
+![Static Badge](https://img.shields.io/badge/Git-black) ![Static Badge](https://img.shields.io/badge/GitHub-black) ![Static Badge](https://img.shields.io/badge/VS%20Code-black) ![Static Badge](https://img.shields.io/badge/Jupyter%20Notebook%20-black)
+
