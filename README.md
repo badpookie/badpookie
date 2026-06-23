@@ -31,7 +31,7 @@ Currently exploring the intersection of software engineering, data science, and 
 
 ## Connect with Me
 
-![Static Badge](https://img.shields.io/badge/Email-red?link=ashi.trip.08%40gmail.com) ![Static Badge](https://img.shields.io/badge/LinkedIn-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fashi-tripathi-081b742a0%3Flipi%3Durn%253Ali%253Apage%253Ad_flagship3_messaging_conversation_detail%253B0Q6JMZTsQzy2Xvgw8AQqPg%253D%253D)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashi-tripathi-081b742a0) [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashi.trip.08@gmail.com)
 
 ## Skills
 
