@@ -32,8 +32,7 @@ Software Engineering, AI/ML, and Data Science internships where I can contribute
 
 ## Connect with Me
 
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent?style=for-the-badge&label=Email&labelColor=red&link=ashi.trip.08%40gmail.com">
-
+![Static Badge](https://img.shields.io/badge/Email-red) ![Static Badge](https://img.shields.io/badge/LinkedIn-blue)
 
 ## Skills
 
